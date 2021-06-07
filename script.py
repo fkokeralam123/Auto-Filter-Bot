@@ -1,15 +1,15 @@
 class script(object):
 
 
-    START_MSG = """ <b>Hi {}
+    START_MSG = """ <b>മോനെ {}
 
-You can call this as an Auto Filter Bot if you like :D
+നീ ചുമ്മാ എന്റെ പിറകെ നടന്നിട്ട് ഒരു കാര്യവും ഇല്ല 😜
 
-Bot simply search for the files from provided channel according to given query and gives link to those files as buttons!
+എന്നെ MOVIE COLLECTIONS GROUP ഇൽ മാത്രേ ഉപയോഗിക്കാൻ പറ്റു....
 
-So no need to add filters for your files or movies from now on!
+അതുകൊണ്ട് മോൻ വേഗം വണ്ടി വിട്ടോ 🚶
 
-For more click <i>help</i></b>"""
+ഇവിടെ 👇 നോക്കടോ 🤨<i>help</i></b>"""
 
 
     HELP_MSG = """<b>How to use the bot??</b>
